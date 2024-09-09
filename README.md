@@ -20,7 +20,6 @@ I'm a Java and Spring developer focused on continuous learning and self-improvem
 <br />
 
 #
-#
 
 ### 📊 Stats
 
